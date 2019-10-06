@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\kiibati\desktop\openglprojects\assignment2 opengl\assignment1\assignment1\main.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kiibati\desktop\openglprojects\assignment2 opengl\assignment1\assignment1\main.cpp(133): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kiibati\desktop\openglprojects\assignment2 opengl\assignment1\assignment1\main.cpp(135): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kiibati\desktop\openglprojects\assignment2 opengl\assignment1\assignment1\main.cpp(136): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kiibati\desktop\openglprojects\assignment2 opengl\assignment1\assignment1\main.cpp(137): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kiibati\desktop\openglprojects\assignment2 opengl\assignment1\assignment1\main.cpp(193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kiibati\desktop\openglprojects\assignment2 opengl\assignment1\assignment1\main.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kiibati\desktop\openglprojects\assignment2 opengl\assignment1\assignment1\main.cpp(306): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  shader_utils.cpp
+  Generating Code...
+  Assignment1.vcxproj -> C:\Users\Kiibati\Desktop\OpenGLProjects\Assignment2 OpenGl\Assignment1\Debug\Assignment1.exe

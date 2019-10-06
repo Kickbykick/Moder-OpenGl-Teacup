@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\kiibati\desktop\assignment2 opengl\assignment1\assignment1\main.cpp(8): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  shader_utils.cpp
+c:\users\kiibati\desktop\assignment2 opengl\assignment1\assignment1\shader_utils.cpp(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
